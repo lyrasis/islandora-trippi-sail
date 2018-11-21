@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>ca.discoverygarden</groupId>
 		<artifactId>trippi-sail</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>0.0.2-LYRASIS</version>
 	</parent>
 	<artifactId>trippi-sail-blazegraph-remote</artifactId>
 	<dependencies>
